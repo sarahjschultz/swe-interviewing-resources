@@ -19,6 +19,9 @@ You gotta write a cover letter. Full stop. Be yourself and remember that real hu
 ### Write Down All Your Best Projects Over the Last 1-2 Years
 A common interview approach that I am encountering from _startups_ in 2024 is for teams to ask to do a "portfolio review" of one of your "most complex" projects. They don't necessarily want to see the source code, but they do want you to be able to talk in detail about the problem you were solving, how you measured success, and the impact and scalability of your work. Take some time up front to write these down (a spreadsheet works well for this) so that you are prepared. 
 
+### LinkedIn Premium
+I do not think this is worth your cash unless you've applied to 50+ jobs and have had zero replies. The main benefit that I can see from Premium is that you can message recruiters or hiring managers directly. This could be useful if you feel like NO ONE is looking at your applications, but based on what I've heard, it's still a bit of a crapshoot.
+
 ## Behavioral Interviews
 [This](https://www.techinterviewhandbook.org/behavioral-interview-rubrics/) is a great resource for behavioral interview prep EVEN IF you are not applying for a FAANG role.
 
