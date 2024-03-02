@@ -58,7 +58,16 @@ Resources I like for this specifically are:
 - [Grokking Modern System Design Interview for Engineers & Managers on Educative.io](https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers) -- this course is only accessible if you have a paid Educative account, but IMO it is worth the investment if you are interviewing at this level.
 - [This Youtube Channel](https://www.youtube.com/c/SystemDesignInterview) has great videos and is free if you don't want to shell out for Educative
 
+#### Mock Interviews
 You might not like hearing this (I didn't) but most of the people I've chatted with who have landed Staff+ roles in the last year at orgs > 50 people, have recommended participating in **mock system design interviews** to prepare. I have not used these yet, but the tools recommended to me were:
 - https://igotanoffer.com/
 - https://interviewing.io
 
+### Test Yourself!
+The only way to know how you are progressing with your preparation is to test it out. The high stakes way of doing this is to line up a bunch of interviews and cross your fingers that you're ready. I'm slightly more risk averse than that, so I like to find ways to simulate a live technical interview without necessarily blowing an opportunity. 
+
+There are a few ways I have done this. 
+
+The first is to solve difficult algorithm problems within a 45 min timer (working down to 30 mins). This is pretty challenging, but better simulates the amount of time you'll have to parse, understand, and solve a problem in an interview. 
+
+The second way I've tested myself is using a variety of "assessments" out in the ether. The one I like best is [Formation](https://formation.dev/). I use it every Saturday to test my weekly progress. I do not use their paid platform, just the free assessment tool. 
