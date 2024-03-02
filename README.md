@@ -43,7 +43,7 @@ I do not like Hackerrank for drill under any circumstances. Let's talk about why
 
 Back to Leetcode. I've been surprised at the number of teams who are straight up using Leetcode for first and second round technical interviews. I think it is worthwhile to get used to this platform and be comfortable executing problems here. Second, I think the Premium version is actually worth your money for this reason: when you do solve a problem (even if it is suboptimal) they offer an Editorial video walkthrough of the brute force and then optimized solutions, with runtime analysis. Every video I've encountered is EXCELLENT and I think makes it worth the money. 
 
-I like the [Grind75]([url](https://www.techinterviewhandbook.org/grind75?weeks=6&hours=25&grouping=topics&order=difficulty)) list of problems, grouped by topic and ordered by difficulty as a way to get rolling.
+I like the [Grind75]([url](https://www.techinterviewhandbook.org/grind75?weeks=6&hours=25&grouping=topics&order=difficulty) list of problems, grouped by topic and ordered by difficulty as a way to get rolling.
 
 [These cheatsheets](https://www.techinterviewhandbook.org/algorithms/array/) are great topic-by-topic algorithms support. 
 
