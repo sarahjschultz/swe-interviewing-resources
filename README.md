@@ -54,7 +54,7 @@ Pick your strongest language and drill all of your problems in this language. Do
 If you are interviewing for a senior or Staff+ role at an organization > 50 people, you should be prepared for at least one round of your technical interviews to focus on system design. If you are not senior or Staff+, don't spend your precious time here. 
 
 Resources I like for this specifically are: 
-- [This](https://github.com/donnemartin/system-design-primer) free OS SystemDesign primer. They have an excellent [study guide]([https://github.com/donnemartin/system-design-primer?tab=readme-ov-file#study-guide](https://github.com/donnemartin/system-design-primer?tab=readme-ov-file#system-design-topics-start-here) which can help you cut down on the total volume of topics based on your time horizon for interviews.
+- [This](https://github.com/donnemartin/system-design-primer) free OS SystemDesign primer. They have an excellent [study guide](https://github.com/donnemartin/system-design-primer?tab=readme-ov-file#system-design-topics-start-here) which can help you cut down on the total volume of topics based on your time horizon for interviews.
 - [Grokking Modern System Design Interview for Engineers & Managers on Educative.io](https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers) -- this course is only accessible if you have a paid Educative account, but IMO it is worth the investment if you are interviewing at this level.
 - [This Youtube Channel](https://www.youtube.com/c/SystemDesignInterview) has great videos and is free if you don't want to shell out for Educative
 
