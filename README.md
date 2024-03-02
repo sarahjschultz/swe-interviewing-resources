@@ -57,6 +57,7 @@ Resources I like for this specifically are:
 - [This](https://github.com/donnemartin/system-design-primer) free OS SystemDesign primer. They have an excellent [study guide](https://github.com/donnemartin/system-design-primer?tab=readme-ov-file#system-design-topics-start-here) which can help you cut down on the total volume of topics based on your time horizon for interviews.
 - [Grokking Modern System Design Interview for Engineers & Managers on Educative.io](https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers) -- this course is only accessible if you have a paid Educative account, but IMO it is worth the investment if you are interviewing at this level.
 - [This Youtube Channel](https://www.youtube.com/c/SystemDesignInterview) has great videos and is free if you don't want to shell out for Educative
+- [ByteByteGo](https://bytebytego.com/) has a great substack, Youtube channel, book series and blog. I recommend it all -- these guys are great.
 
 #### Mock Interviews
 You might not like hearing this (I didn't) but most of the people I've chatted with who have landed Staff+ roles in the last year at orgs > 50 people, have recommended participating in **mock system design interviews** to prepare. I have not used these yet, but the tools recommended to me were:
